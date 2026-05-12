@@ -4,9 +4,6 @@
 💻 **Junior Software Developer**  
 🎓 **Information Systems Engineering Student** at Universidad Nacional de Costa Rica  
 📍 Costa Rica  
-📜 **Scrum Fundamentals Certified (SFC™)**  
-🔗 https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-ManfredFernandezBrenes-1077685.pdf
-
 ---
 
 ## 🚀 About Me

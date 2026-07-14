@@ -22,7 +22,7 @@ Backend developer passionate about building scalable and maintainable software s
 ## 🏆 Certifications
 
 - 📜 **Scrum Fundamentals Certified (SFC™)** – SCRUMstudy
-- 📅 Issued: 2026
+- 📅 Issued: 2025
 - 🔗 [View Certificate](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-ManfredFernandezBrenes-1077685.pdf)
 
 ---

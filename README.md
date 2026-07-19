@@ -2,8 +2,8 @@
 
 👋 Hi, I'm **Manfred Fernández Brenes**  
 💻 **Junior Software Developer**  
-🎓 **Information Systems Engineering Student** at Universidad Nacional Autónoma 
-📍 Costa Rica  
+🎓 **Information Systems Engineering Student** at Universidad Nacional Autónoma   
+📍 Costa Rica
 ---
 
 ## 🚀 About Me
